@@ -5,7 +5,7 @@ A neural network classifier, that takes an image as its input, and predicts a sp
 
 ## Credits
 - INT2 Group 36
-  - Kyle Aguillo
+  - [Kyle Aguillo](https://github.com/waterspear)
   - [Faris Alblooki](https://github.com/parisyup)
   - [Jensen Bradshaw](https://github.com/Jensen6842)
   - [Adham Noureldin](https://github.com/Adham125)
