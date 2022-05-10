@@ -9,5 +9,4 @@ A neural network classifier, that takes an image as its input, and predicts a sp
   - [Faris Alblooki](https://github.com/parisyup)
   - [Jensen Bradshaw](https://github.com/Jensen6842)
   - [Adham Noureldin](https://github.com/Adham125)
-  - Oli Ross
 - [Alex Krizhevsky](https://www.cs.toronto.edu/~kriz/index.html) for the CIFAR-10 dataset.
